@@ -108,6 +108,7 @@ address {
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: uppercase;
+    text-transform: capitalize;
 }
 
 .our-team-item {
